@@ -1,0 +1,16 @@
+.card{
+    width: 80%;
+    margin: auto;
+    padding: 5% 0;
+}
+
+img{
+    border: 5px outset #FB3D21;
+    padding: 1%;
+    background-color: darkgray;
+}
+
+.img-container{
+    width: 80%;
+    margin: auto;
+}
