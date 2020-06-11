@@ -15,7 +15,7 @@ function App() {
     .catch(error =>{
       console.log('this is the error:', error)
     })
-  })
+  }, [])
 
   return (
     <div className="App">
